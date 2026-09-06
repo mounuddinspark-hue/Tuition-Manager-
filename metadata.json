@@ -1,0 +1,6 @@
+{
+  "name": "Tuition Manager BD",
+  "description": "Professional mobile-first Tuition Management System for Teachers, Students, and Super Admin in Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
